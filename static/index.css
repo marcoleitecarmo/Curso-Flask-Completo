@@ -1,0 +1,25 @@
+body {
+    background-color: mintcream;
+    
+}
+
+h1 {
+    color: red;    
+    text-align: center;
+    font-size: 35px;
+}
+
+.fruta{
+    padding: auto;
+    background-color: aqua;
+}
+
+.frutas{
+    color: green;
+    font-size: 25px;;
+}
+
+.notas{
+    color: red;
+    font-size: 25px;
+}

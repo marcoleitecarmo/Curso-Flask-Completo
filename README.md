@@ -1,2 +1,2 @@
 # Curso-Flask-Completo
- Curso de Flasck Completo
+ Curso de Flask Completo
